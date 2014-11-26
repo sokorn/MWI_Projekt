@@ -1,2 +1,2 @@
-MWI_Projekt
+MWI Projekt 2014 - OpenData
 ===========
